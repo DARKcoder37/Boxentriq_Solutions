@@ -2,7 +2,7 @@
 
 -These number are the frequency of musical notes.
 
-Frequency - Notes
+Frequency - Notes<br>
 147hz - D3    (146.83)<br>
 82 hz - E2    (82.41)<br>
 65 hz - C2    (65.41)<br>
